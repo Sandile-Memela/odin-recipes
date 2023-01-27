@@ -1,0 +1,20 @@
+img {
+    height: 250px;
+    width: auto;
+}
+
+.intro {
+    font-style: italic;
+}
+
+h3 {
+    color: blueviolet;
+}
+
+ul {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+ol {
+    font-weight: bold;
+}
